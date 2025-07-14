@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-// Video class
+
 class video {
     String Videoname;
     boolean checkout;

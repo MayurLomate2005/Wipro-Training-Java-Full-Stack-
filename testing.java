@@ -1,11 +1,11 @@
 import PackageAssignment.myclass ;
 public class testing {
     public static void main(String[] args) {
-        myclass obj = new myclass();
-        System.out.println("int i : "+obj.i);
-        System.out.prinln("int j :"+obj.j);
-        System.out.println("int m :"+obj.m);
-         System.out.println("int n : "+obj.n);
+        // myclass obj = new myclass();
+        // System.out.println("int i : "+obj.i);
+        // System.out.prinln("int j :"+obj.j);
+        // System.out.println("int m :"+obj.m);
+        //  System.out.println("int n : "+obj.n);
         
     }
     
